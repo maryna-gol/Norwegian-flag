@@ -1,0 +1,17 @@
+#flagg {
+    display: grid;
+    grid-template-columns: repeat(22, 20px);
+    grid-template-rows: repeat(16, 20px);
+}
+
+.red {
+    background-color: #BA0C2F;
+}
+
+.blue {
+    background-color: #00205B;
+}
+
+.white {
+    background-color: #FFFFFF;
+}

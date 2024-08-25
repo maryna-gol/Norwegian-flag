@@ -9,3 +9,6 @@ Utilizes CSS Grid for precise layout.
 ## Customization
 You can customize the flag's size or change colors by modifying the CSS in the style.css file. The grid dimensions and colors are defined in the CSS classes for easy adjustments.
 
+# Contributors
+
+- [Maryna Goloborodko] (https://github.com/maryna-gol)

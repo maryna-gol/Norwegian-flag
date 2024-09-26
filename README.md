@@ -17,6 +17,10 @@ You can customize the flag's size or change colors by modifying the CSS in the s
 ## License
 This project is licensed under the MIT License.
 
+### Show your support
+
+Give a ⭐ if you like this website!
+
 # Contributors
 
 - [Maryna Goloborodko] (https://github.com/maryna-gol)
